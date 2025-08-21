@@ -1,24 +1,26 @@
 <div align="center">
 
+<!-- ヘッダーアニメーション -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=400&text=Yuya&fontSize=90&color=0:a855f7,50:06b6d4,100:8b5cf6&fontColor=ffffff&animation=twinkling&width=2400">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=400&text=Yuya&fontSize=90&color=0:a855f7,50:06b6d4,100:8b5cf6&fontColor=ffffff&animation=twinkling&width=2400">
 </picture>
 
+<br>
+
+<!-- メインタイピングアニメーション -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=🤝+共に学び%2C+共に成長するエンジニアへ;🚀+学びを力に+次の挑戦へ" alt="Typing Animation" />
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=🤝+共に学び%2C+共に成長するエンジニアへ;🚀+学びを力に+次の挑戦へ" alt="Typing Animation" />
-</div>
+<!-- サブタイピングアニメーション -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=500&lines=Laravel+•+Vue.js+•+Docker;教育と実務を通じて成長中;チームと支え合いながら成果をつくる" alt="Sub typing" />
 
-<br>
-
-<div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=500&lines=Laravel+•+Vue.js+•+Docker;教育と実務を通じて成長中;チームと支え合いながら成果をつくる" alt="Sub typing" />
 </div>
 
 ---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" /> GitHub 統計情報
 
 <div align="center">
 
@@ -58,32 +60,26 @@
 
 まだまだ未熟で学ぶことばかりですが、チームメンバーと協力しながら、少しずつ成長していきたいと思っています。
 
-<br>
-
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="35" /> 技術スタック
 
 <div align="center">
 
 ### 🎯 メインスタック
 <a href="#"><img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,python,mysql,docker&theme=dark&perline=6" /></a>
 
-
 ### 🛠️ 開発ツール
 <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nginx,redis&theme=dark&perline=6" /></a>
 
 ### 🎨 クリエイティブ・学習
-<a href="#"><img src="https://skillicons.dev/icons?i=unity,python,blender,figma,&theme=dark&perline=5" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=unity,python,blender,figma&theme=dark&perline=5" /></a>
 
 </div>
 
-<br>
-
 ---
 
-<br>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" /> 大切にしている考え方
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" /> 大切にしている考え方
 
 <div align="center">
 
@@ -102,6 +98,7 @@
 
 <div align="center">
 
+<!-- フッターアニメーション -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:06b6d4,100:a855f7&height=200&section=footer&animation=twinkling">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:06b6d4,100:a855f7&height=200&section=footer&animation=twinkling">
