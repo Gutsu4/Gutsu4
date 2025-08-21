@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=400&text=Gutsu4&fontSize=90&color=0:a855f7,50:06b6d4,100:8b5cf6&fontColor=ffffff&animation=twinkling&width=2400">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&text=Gutsu4&fontSize=90&color=0:a855f7,50:06b6d4,100:8b5cf6&fontColor=ffffff&animation=twinkling&width=2400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=400&text=Yuya&fontSize=90&color=0:a855f7,50:06b6d4,100:8b5cf6&fontColor=ffffff&animation=twinkling&width=2400">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&text=Yuya&fontSize=90&color=0:a855f7,50:06b6d4,100:8b5cf6&fontColor=ffffff&animation=twinkling&width=2400">
 </picture>
 
 
