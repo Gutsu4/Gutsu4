@@ -16,6 +16,17 @@
 <!-- サブタイピングアニメーション -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=500&lines=Laravel+•+Vue.js+•+Docker;教育と実務を通じて成長中;チームと支え合いながら成果をつくる" alt="Sub typing" />
 
+<br>
+
+<!-- ポートフォリオリンク -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 15px; margin: 20px auto; display: inline-block;">
+<div style="background: #0d1117; padding: 15px 25px; border-radius: 13px;">
+<a href="https://infobeat.net" target="_blank" style="text-decoration: none;">
+  <strong style="color: #58a6ff; font-size: 16px;">🌐 ポートフォリオサイト</strong>
+</a>
+</div>
+</div>
+
 </div>
 
 ---
