@@ -9,12 +9,13 @@
 <br>
 
 <!-- メインタイピングアニメーション -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=🤝+共に学び%2C+共に成長するエンジニアへ;🚀+学びを力に+次の挑戦へ" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=🤝+相手に寄り添い%2C+共に成長するエンジニアへ;🌱+学びを重ね%2C+仲間と価値をつくる" alt="Typing Animation" />
 
 <br>
 
 <!-- サブタイピングアニメーション -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=500&lines=Laravel+•+Vue.js+•+Docker;教育と実務を通じて成長中;チームと支え合いながら成果をつくる" alt="Sub typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=500&lines=Laravel+•+Vue.js+•+Docker;教育と実務で磨いた課題解決力;チームに寄り添い%2C+学び合いながら成果を育む" alt="Sub typing" />
+
 
 <br>
 
