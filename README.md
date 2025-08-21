@@ -18,19 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=500&lines=Laravel+•+Vue.js+•+Docker;教育と実務を通じて成長中;チームと支え合いながら成果をつくる" alt="Sub typing" />
 </div>
 
-<br>
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/github/followers/Gutsu4?label=フォロワー&style=flat-square&color=8B5CF6&labelColor=1F2937" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=Gutsu4&label=プロフィール閲覧&color=06B6D4&style=flat-square&labelColor=1F2937" alt="Profile views" />
-  <img src="https://img.shields.io/badge/ステータス-学習中-brightgreen?style=flat-square&labelColor=1F2937" alt="Status" />
-</div>
-
-</div>
-
 ---
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" /> GitHub 統計情報
 
 <div align="center">
 
@@ -74,7 +62,6 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="35" /> 技術スタック
 
 <div align="center">
 
