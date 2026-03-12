@@ -22,7 +22,7 @@
 <!-- ポートフォリオリンク -->
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 15px; margin: 20px auto; display: inline-block;">
 <div style="background: #0d1117; padding: 15px 25px; border-radius: 13px;">
-<a href="https://infobeat.net" target="_blank" style="text-decoration: none;">
+<a href="https://yuya-haraguchi.com/" target="_blank" style="text-decoration: none;">
   <strong style="color: #58a6ff; font-size: 16px;">🌐 ポートフォリオサイト</strong>
 </a>
 </div>
